@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "kivy",
+  "repo": "ncis-python",
+  "versions": [
+    {
+      "commit": "e70e138cd3bdae41b62103056cba5e1afbe5d9be",
+      "parsed_at": "2026-11-07T12:30:06.527134+00:00",
+      "filetree": "filetree/e70e138cd3bdae41b62103056cba5e1afbe5d9be.nq.gz",
+      "blobs": [
+        "blob/5a25821ae138f1cdf7531defcff73958555a036b.nq.gz",
+        "blob/dc96e8fe206a1a8064dd4554b1ee18cb166a4dd6.nq.gz",
+        "blob/38c34d10ef60c6fbe560c18d1fd27eb2e708ec1f.nq.gz",
+        "blob/8ab41ebd5ad624ea73199d37b83711a93ccb67d9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
